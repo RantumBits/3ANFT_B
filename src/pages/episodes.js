@@ -4,7 +4,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 import Layout from "../components/layout"
-import PostCard from "../components/post-card"
+import EpisodeCard from "../components/episode-card"
 import Seo from "../components/seo"
 
 const styles = {
@@ -21,27 +21,23 @@ const styles = {
   },
 }
 
-export const blogListQuery = graphql`
-  query blogListQuery($skip: Int!, $limit: Int!) {
-    allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { template: { eq: "blog-post" } } }
-      limit: $limit
-      skip: $skip
+export const episodesListQuery = graphql`
+  query episodesListQuery {
+    episodes: allFeedEpisodes(
+      sort: {fields: isoDate, order: DESC}, 
     ) {
       edges {
         node {
           id
-          excerpt(pruneLength: 250)
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+          title
+          fields {
             slug
-            title
-            featuredImage {
-              childImageSharp {
-                gatsbyImageData(layout: CONSTRAINED, width: 345, height: 260)
-              }
-            }
+          }
+          date: isoDate(formatString: "MMMM DD, YYYY")
+          link
+          content {
+            encoded
+            encodedSnippet
           }
         }
       }
@@ -84,44 +80,46 @@ const Pagination = props => (
     </ul>
   </div>
 )
-class BlogIndex extends React.Component {
+class Episodes extends React.Component {
   render() {
     const { data } = this.props
     const { currentPage, numPages } = this.props.pageContext
-    const blogSlug = "/test/"
+    const blogSlug = "/episodes/"
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
     const prevPage =
       currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()
     const nextPage = blogSlug + (currentPage + 1).toString()
 
-    const posts = data.allMarkdownRemark.edges
-      .filter(edge => !!edge.node.frontmatter.date)
-      .map(edge => <PostCard key={edge.node.id} data={edge.node} />)
+    const episodes = data.episodes.edges
+      .filter(edge => !!edge.node.date)
+      .map(edge => <EpisodeCard key={edge.node.id} data={edge.node} />)
     let props = {
       isFirst,
       prevPage,
       numPages,
-  //    blogSlug,
+      blogSlug,
       currentPage,
       isLast,
       nextPage,
     }
 
+    // console.log("***** data",episodes)
+
     return (
       <Layout className="blog-page">
         <Seo
-          title={"Resources — Page " + currentPage + " of " + numPages}
+          title={"Episodes — Page " + currentPage + " of " + numPages}
           description={
-            "3A NFT resources " + currentPage + " of " + numPages
+            "3A NFT episodes " + currentPage + " of " + numPages
           }
         />
-        <h1>3A NFT Resources</h1>
-        <div className="grids col-1 sm-2 lg-3">{posts}</div>
-        <Pagination {...props} />
+        <h1>3A NFT Episodes</h1>
+        <div className="grids col-1 sm-2 lg-3">{episodes}</div>
+        {/* <Pagination {...props} /> */}
       </Layout>
     )
   }
 }
 
-export default BlogIndex
+export default Episodes
