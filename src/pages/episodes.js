@@ -113,9 +113,9 @@ class Episodes extends React.Component {
     return (
       <Layout className="blog-page">
         <Seo
-          title={"Episodes — Page " + currentPage + " of " + numPages}
+          title={"Podcast Episodes Page "}
           description={
-            "3A NFT episodes " + currentPage + " of " + numPages
+            "3A NFT episodes. Find all of the podcast episodes from All About Afforable NFTs, from the first to the most recent podcast."
           }
         />
         <h1>3A NFT Podcast Episodes</h1>
