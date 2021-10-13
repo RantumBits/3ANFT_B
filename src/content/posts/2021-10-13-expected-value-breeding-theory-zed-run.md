@@ -120,7 +120,7 @@ All of these theories could be right for the wrong reasons. As long as you follo
 * **Dr. Ian & Zed Gazette (ZG)**: Genetic Theory Inbreeding down the line
 * * Summary: <https://www.youtube.com/watch?v=wHq-yP3JZ9w> 
   * Upside: Really fun to think about the potential of pulling in breeding lines and adds value to a lot of donkeys in the system. This may actually be where ZED evolves breeding to, so keep an eye out. 
-  * Problem: BG data analysis showed that inbred horses to date are actually worse than a random breeding path. Also, it assumes that ZED has created a robust genetic algorithm, which may be aspirational for a team that seems to keep things as simple as possible (went with a straight track because turns were too hard). 
+  * Problem: [BG data analysis showed](https://twitter.com/bg_alt/status/1428605614289080326?s=20) that inbred horses to date are actually worse than a random breeding path. Also, it assumes that ZED has created a robust genetic algorithm, which may be aspirational for a team that seems to keep things as simple as possible (went with a straight track because turns were too hard). 
 * **BG**: What do the data say
 * * Summary: <https://www.youtube.com/watch?v=t0zLpQEq6Ko>
   * Upside: based on large data analysis of the whole breeding ecosystem. Doesn’t push theories but rather presents stats about existing theories. Breeding is largely random, favoring the bloodline hierarchy. The data clearly shows that foals will trend to one class below the average class of its parents.  
