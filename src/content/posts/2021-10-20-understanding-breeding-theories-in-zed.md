@@ -15,7 +15,8 @@ For each of these theories, there are outliers that serve as examples and except
 All of these theories could be right for the wrong reasons. As long as you follow the EV Breeding Theory all of them can be tested for yourself.
 
 * **XYZ Racing**: Base Ability Theory
-* * Summary: <https://www.youtube.com/watch?v=PPCsIPmr1uQ> 
+* * Summary: <https://www.youtube.com/watch?v=PPCsIPmr1uQ> \
+    and <https://www.youtube.com/watch?v=xYqkcMMVH8k> 
   * Upside: Base Ability seems in line with ZED’s ‘Ability Score’ which is a known part of DNA and they use BG data to back their approach. Very interesting insights around 1600m being a look at the true ability of a horse because variance doesn’t show as highly in data. Overall most closely aligns with Expected Value Breeding Theory.
   * Problem: 
   * * Theory depends on the average class and 1600 performance which can easily be manipulated by stable owners. 
