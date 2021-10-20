@@ -105,7 +105,7 @@ The final step is to figure out what is the relative floor for the ‘winning’
 
 ## Final Thought
 
-We created this because we believe in what ZED and the community is building. We also want to help new stables interested in breeding not lose their shirt as the total bred population continues to grow. While it is clear there is a lottery system it is important to us that players get to play that lottery with fair odds that make the game fun.
+We created this because we believe in ZED and the community around it - which is hilarious and generous. We also want to help new stables interested in breeding not lose their shirt as the total bred population continues to grow. While it is clear there is a lottery system it is important to us that players get to play that lottery with fair odds that make the game fun.
 
 
 
