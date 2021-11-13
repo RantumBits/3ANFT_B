@@ -9,8 +9,6 @@ featuredImage: /assets/samuel-pereira-uf2nnanwa8q-unsplash.jpg
 ---
 NFT (Non-fungible tokens) conferences can be amazing ways to meet the frens that have been behind the avatars you interact with across Discord. New projects, thought leaders, great parties, and chances to get exclusive mints IRL are just some of the upsides to attending an NFT conference.  
 
-
-
 <!--StartFragment-->
 
 | **NFT Conference**                                                                                                            | **Date**      | **Location**    | **Cost**                                                                                                                                                                                                                                                 | **Size** |
@@ -24,7 +22,7 @@ NFT (Non-fungible tokens) conferences can be amazing ways to meet the frens that
 
 <!--EndFragment-->
 
-### Art Basel	
+### Art Basel
 
 **Website**: [Art Basel Miami with NFTs](https://artbasel.com/miami-beach) \
 **Date/location**: Dec 02 2021	|   Miami, FL	\
@@ -44,29 +42,29 @@ Kabinett sector; as well as 10 panels as part of the fair's renowned Conversatio
 **Cost/attendees**: $200-$500  |  150,000	\
 **About:** "The Consumer Technology Association (CTA)® today announced CES® 2022, the world’s most influential technology event, will feature a new program for the growing digital assets industry, with a focus on non-fungible tokens (NFTs), initial coin offerings (ICOs) and other blockchain-based technologies and businesses. The new initiative will include digital asset exhibits, as well as conference programming highlighting the rise of NFTs and the market’s future. CES heads back to Las Vegas Jan. 5-8, 2022, with Media Days taking place Jan. 3-4, 2022."
 
-###  ETH Denver 
+### ETH Denver
 
 **Website**: [](https://artbasel.com/miami-beach)[ETH Denver conference site](https://www.ethdenver.com/)\
 **Date/location**: Feb 11th, 2022  |  Colorado**Cost/attendees**: $free  |  3,000	\
 **About:** "THE LARGEST AND LONGEST RUNNING ETH EVENT IN THE WORLD. ETHDenver is a member-owned Community Innovation Festival. "
 
-### SXSW Interactive (#SXSWi) 
+### SXSW Interactive (#SXSWi)
 
 **Website**: [](https://artbasel.com/miami-beach) [SWSWi conference](https://cart.sxsw.com/products/reg-ia)\
-**Date/location**: March 11th, 2022	|   Miami, FL	\
-**Cost/attendees**: $60-$130  |  90,000	\
-**About**
+**Date/location**: March 11th, 2022	|   Austin, TX	\
+**Cost/attendees**: $1,120  |  400,000	\
+**About:** "An essential destination for global professionals, the annual March event features sessions, music and comedy showcases, film screenings, exhibitions, professional development, and a variety of networking opportunities. SXSW proves that the most unexpected discoveries happen when diverse topics and people come together.Join us from March 11-20 in Austin, Texas for the 2022 SXSW Conference & Festivals. Stay tuned for more information on attending SXSW 2022."
 
 ### NFT.land by TokenSmart
 
-**Website**: [](https://artbasel.com/miami-beach)\
-**Date/location**: Dec 02 2021	|   Miami, FL	\
-**Cost/attendees**: $60-$130  |  90,000	\
-**About**
+**Website**: [NFT.land conference website](https://www.nft.land/)[](https://artbasel.com/miami-beach)\
+**Date/location**: March 22nd, 2022	|   Las Vegas, NV\
+**Cost/attendees**: .5ETH  |  150	\
+**About:** "Our inaugural 2022 event will spearhead the growing interest and demand for NFT knowledge and partnerships. NFT.Land will stand alone in delivering education on cutting edge topics with industry thought-leaders and creating opportunities for attendees to make valuable connections. Our goal is to help you grow your business while showcasing TokenSmart’s dedication to fostering its own community’s growth and prosperity."
 
 ### VeeCon 2022
 
-**Website**: [](https://artbasel.com/miami-beach)\
-**Date/location**: Dec 02 2021	|   Miami, FL	\
-**Cost/attendees**: $60-$130  |  90,000	\
-**About**
+**Website**: [VeeCon NFT conference website](https://veecon.co/)[](https://artbasel.com/miami-beach)\
+**Date/location**:  May 19th, 2022	|   Minneapolis, MN\
+**Cost/attendees**: ~ 8ETH  |  10,000	\
+**About: "**VeeCon 2022 is a multi-day superconference where only VeeFriends token holders will experience an extraordinary lineup of content including iconic keynote speeches; aggressive amount of innovative and educational talks, panels and Q&A sessions; and many collaborative experiences including competitions, gatherings, and team sessions. In addition, there will be a bevy of entertainment."
