@@ -9,8 +9,9 @@ featuredImage: /assets/samuel-pereira-uf2nnanwa8q-unsplash.jpg
 ---
 NFT (Non-fungible tokens) conferences can be amazing ways to meet the frens that have been behind the avatars you interact with across Discord. They can also be great ways to find new projects, thought leaders, great parties, and chances to get exclusive mints IRL are just some of the upsides to attending an NFT conference.  
 
-
-
+<h3>Listen to the episode</h3>
+<iframe title="026: Top NFT Conferences Coming Up  |  Affordable Project: Chubbiverse Frens" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=29t5h-112eaba-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=&btn-skin=2baf9e"></iframe>
+<br>
 | **NFT Conference**                                                                                                            | **Date**       | **Location**    | **Cost**    | **Size** |
 | ----------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------- | ----------- | -------- |
 | [Art Basel](https://artbasel.com/miami-beach)                                                                                 | Dec 2, 2021    | Miami           | $60-130     | 90k      |
@@ -22,8 +23,6 @@ NFT (Non-fungible tokens) conferences can be amazing ways to meet the frens that
 
 \
 Honorable mention to checking out [Eventbrite's listing for local NFT themed conference](https://www.eventbrite.com/d/nft/?q=NFT&mode=search)s that may be happening in your area.  Note to look for events that have good details, speakers and seem like they will be attended by a good amount of people. Be careful about just going to single project-led events that may just be interested in shilling one particular project and not share a broader look at the market. 
-
-
 
 ### Art Basel
 
