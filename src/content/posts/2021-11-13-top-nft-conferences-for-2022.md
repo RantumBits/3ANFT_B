@@ -11,15 +11,22 @@ NFT (Non-fungible tokens) conferences can be amazing ways to meet the frens that
 
 <h3>Listen to the episode</h3>
 <iframe title="026: Top NFT Conferences Coming Up  |  Affordable Project: Chubbiverse Frens" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=29t5h-112eaba-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=&btn-skin=2baf9e"></iframe>
-<br>
-| **NFT Conference**                                                                                                            | **Date**       | **Location**    | **Cost**    | **Size** |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------- | ----------- | -------- |
-| [Art Basel](https://artbasel.com/miami-beach)                                                                                 | Dec 2, 2021    | Miami           | $60-130     | 90k      |
-| [CES (NFT) 2022](https://www.ces.tech/News/Press-Releases/CES-Press-Release.aspx?NodeID=b51f8965-614b-4911-b04f-fe9082f692bd) | Jan 5, 2022    | Las Vegas, NV   | $200 - $500 | 150k     |
-| [ETH Denver](https://www.ethdenver.com/)                                                                                      | Feb 11, 2022   | colorado        | free        | 3k       |
-| [SXSW Interactive](https://cart.sxsw.com/products/reg-ia)                                                                     | March 11, 2022 | Austin, TX      | $1,120      | 400k     |
-| [NFT.Land](https://www.nft.land/)                                                                                             | March 22, 2022 | Las Vegas, NV   | .5 ETH      | 150      |
-| [VeeCon 2022](https://veecon.co/)                                                                                             | May 19, 2022   | Minneapolis, MN | 8 ETH       | 10k      |
+
+
+
+
+| **NFT Conference**                                                                                                            | **Date**      | **Location**    | **Cost**                                                                                                                                                                                                                                                 | **Size** |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Art Basel](https://artbasel.com/miami-beach)                                                                                 | Dec 02 2021   | Miami           | $60-130                                                                                                                                                                                                                                                  | 90k      |
+| [CES (NFT) 2022](https://www.ces.tech/News/Press-Releases/CES-Press-Release.aspx?NodeID=b51f8965-614b-4911-b04f-fe9082f692bd) | Jan 5, 2022   | Las Vegas, NV   | $200 - $500                                                                                                                                                                                                                                              | 150k     |
+| [ETH Denver](https://www.ethdenver.com/)                                                                                      | Feb 11, 2022  | colorado        | free                                                                                                                                                                                                                                                     | 3k       |
+| [SXSW Interactive](https://cart.sxsw.com/products/reg-ia)                                                                     | March 11,2022 | Austin, TX      | $1,120                                                                                                                                                                                                                                                   | 400k     |
+| [NFT.Land](https://www.nft.land/) by TokenSmart                                                                               | March 22,2022 | Las Vegas, NV   | .5 ETH                                                                                                                                                                                                                                                   | 150      |
+| [VeeCon 2022](https://veecon.co/)                                                                                             | May 19,2022   | Minneapolis, MN | [8 ETH](https://opensea.io/collection/veefriends?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=conference&search[stringTraits][0][values][0]=Core&search[stringTraits][0][values][1]=Limited&search[toggles][0]=BUY_NOW) | 10k      |
+
+
+
+
 
 \
 Honorable mention to checking out [Eventbrite's listing for local NFT themed conference](https://www.eventbrite.com/d/nft/?q=NFT&mode=search)s that may be happening in your area.  Note to look for events that have good details, speakers and seem like they will be attended by a good amount of people. Be careful about just going to single project-led events that may just be interested in shilling one particular project and not share a broader look at the market. 
