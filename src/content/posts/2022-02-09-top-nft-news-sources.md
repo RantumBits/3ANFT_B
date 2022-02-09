@@ -17,12 +17,12 @@ The NFT landscape is constantly evolving and there are plenty of great NFT news 
 * [Daily NFT News](https://branavan.substack.com/) - Branavan shares news on a daily basis, with highlights from Crypto-Twitter, notable NFT sales and highlights from the Treasure marketplace.  
 * [NFT Now](https://nftnow.com) - NFT Now is a multimedia news & analytis platform focused on NFTs. Founded by well known NFT collector Matt Medved, NFT Now features a talented team of writers to cover the NFT space. 
 * [Metaversal](https://metaversal.banklesshq.com/) - Bankless’ NFT focused newsletter is written by William M Peaster, an experienced NFT collector & longtime crypto-writer. Topics are explained in simple manners that makes it easy to discover, understand and use new NFT platforms and apps. 
+* [NFT Evening](https://nftevening.com/) - NFT news with mulitple posts on a daily basis, covering projects, NFT social media, and more. 
+* [NFT Plazas](https://nftplazas.com) - Regularly updated nwes covering the broad NFT space
+* [NFTs Articles | Artnet News](https://news.artnet.com/market/nfts) - Artnet, an online publication covering many relams of the art world, features a category of NFT art news. 
+* [CrtypoArtNet](https://www.cryptoartnet.com/cryptoart-news/) - CryptoArtNet covers crypto art, including many of the most well known artists in the space. 
 
 
-
-**[NFT Evening](https://nftevening.com/)**
-
-[NFT Plazas](https://nftplazas.com) 
 
 [Cobie | Substack](https://cobie.substack.com/) 
 
@@ -34,9 +34,9 @@ The NFT landscape is constantly evolving and there are plenty of great NFT news 
 
 [Decrypt](https://decrypt.co) 
 
-[CrtypoArtNet](https://www.cryptoartnet.com/cryptoart-news/) 
 
-[NFTs Articles | Artnet News](https://news.artnet.com/market/nfts) 
+
+
 
 [Blog | NFT discovery and trend analysis | NonFungible.com](https://nonfungible.com/blog) 
 
