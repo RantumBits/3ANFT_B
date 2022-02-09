@@ -2,7 +2,7 @@
 template: blog-post
 title: Top NFT News Sources
 slug: top-nft-news-sources
-date: 2022-02-10 17:05
+date: 2022-02-08 18:20
 description: "The NFT landscape is constantly evolving and there are plenty of
   great NFT news sources to stop on top of the non-fungible token market. Here's
   the 3a NFT list of the top NFT news sources. "
