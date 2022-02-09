@@ -23,6 +23,10 @@ const MenuItems = [
     path: "/contact",
     title: "Contact",
   },
+  {
+    path: "https://discord.gg/fyX4YB9t2Z",
+    title: "Join Our Discord",
+  },
 ]
 
 const ListLink = props => (

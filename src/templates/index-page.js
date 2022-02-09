@@ -18,6 +18,7 @@ import {
   RiDribbbleFill,
   RiMediumFill,
   RiBehanceFill,
+  RiDiscordFill
 } from "react-icons/ri"
 import { FaWordpress, FaVk } from "react-icons/fa"
 import { SiSpotify, SiApplepodcasts, SiGooglepodcasts } from "react-icons/si"
@@ -214,6 +215,13 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+        {icons.icon === "discord" ? (
+          <Link to={icons.url} target="_blank">
+            <RiDiscordFill />
+          </Link>
+        ) : (
+          ""
+        )}
       </div>
     )
   })
@@ -261,7 +269,7 @@ const HomePage = ({ data }) => {
               <SiGooglepodcasts />
             </Link>
           </div>
-          {/*
+          {
           <div
             className="social-icons"
             sx={{
@@ -270,7 +278,8 @@ const HomePage = ({ data }) => {
           >
             {sIcons}
           </div>
-          */}
+          }
+
         </div>
         {
           <div

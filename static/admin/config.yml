@@ -196,6 +196,7 @@ collections:
                     "medium",
                     "behance",
                     "vk",
+                    "discord",
                   ]
                 hint: "Select the Icon"
               - widget: string
