@@ -11,6 +11,16 @@
   min-height: calc(100vh - 60px - 81px);
 }
 
+article iframe {
+  border: none !important;
+  background: #ddd;
+  border-radius: 5px;
+
+}
+
+article iframe .div {
+    margin: auto auto;
+}
 .site-logo img {border-radius: 5px !important}
 .site-header {
   display: flex;
