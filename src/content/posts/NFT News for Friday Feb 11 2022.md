@@ -3,8 +3,9 @@ template: blog-post
 title: NFT News & Links for Friday Feb 11 2022
 slug: nft-links-2022-02-11
 date: 2022-02-11 08:00
-description: "NFT links and news for Friday Feb 11 2022 including Salesforce planning an NFT Cloud - Ledger Insights - enterprise blockchain"
-featuredImage: /assets/nft_links_2022-02-11.jpg
+description: NFT links and news for Friday Feb 11 2022 including Salesforce
+  planning an NFT Cloud - Ledger Insights - enterprise blockchain
+featuredImage: /assets/nft-links-2022-02-14.jpg
 ---
 
 ## Daily NFT Market Performance
