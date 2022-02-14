@@ -31,6 +31,9 @@ Featured image from [The Panels](https://thepanels.art/) by Arihz
 <iframe src="https://dune.xyz/embeds/414077/789649/5213e9ee-97ff-4a2b-bbdc-ea9a3876d895?date=2022-02-14%2000%3A00%3A00" height="550" width="100%" title="Top 50 Single Daily NFT Sales"></iframe>
 <iframe src="https://dune.xyz/embeds/416582/794788/8067a6e7-1b14-4d32-ad01-063d8413317d?date=2022-02-14%2000%3A00%3A00" height="300" width="100%" title="Top New Trading NFT Collections"></iframe>
 
+<iframe src="https://dune.xyz/embeds/416820/795280/6a94ce08-3815-437f-a2a9-1d8b5c4d84e4?date=2022-02-14%2000%3A00%3A00" height="350" width="49%" title="nft sales count DATE"></iframe>
+<iframe src="https://dune.xyz/embeds/416822/795284/02cbdc60-0d2f-4e37-a741-f1ccf39c6bf7?date=2022-02-14%2000%3A00%3A00" height="350" width="49%" title="nft volume DATE"></iframe>
+
 ## NFT News & Links for Monday Feb 14 2022
 
 ### \- <a href="https://decrypt.co/92880/pre-orders-samsung-new-galaxy-s22-smart-phone-come-nfts" target="_blank">Pre-orders of Samsung’s New Galaxy S22 Smartphone to Come With NFTs</a> <br/>
@@ -42,7 +45,7 @@ Samsung offering NFTs from Theta Labs with "ongoing membership benefits and priv
 
 ### \- <a href="https://www.cnbc.com/2022/02/14/uk-hmrc-seizes-nfts-for-first-time-in-tax-fraud-probe.html" target="_blank">British authorities just seized NFTs for the first time, in a £1.4 million fraud probe</a> <br/>
 
-via "NFT" - Google News | *2022 02 14* <br/>
+via CNBC | *2022 02 14* <br/>
 Three NFTs + $5k in cryptocurrency seized in UK tax fraud investigation
 
 > HMRC says it is the first law enforcement body in the U.K. to make a seizure of NFTs. Authorities seized three NFTs representing digital art, as well as another £5,000 in other crypto assets. The NFTs are yet to be appraised, and the probe is ongoing, HMRC said.
@@ -61,7 +64,7 @@ Interesting look at the distribution & rewards behind the $LOOKS token
 
 ### \- <a href="https://fortune.com/2022/02/14/nft-florida-home-condo-sale-crypto-propy/" target="_blank">Company behind Florida NFT home sale has another property ready to go</a> <br/>
 
-via "NFT" - Google News | *2022 02 14* <br/>
+via Fortune | *2022 02 14* <br/>
 Propy plans to sell 10 more homes as NFTs, with a $200-300k condo in the Tampa area coming next
 
 > Propy plans to list 10 more properties-as-NFTs around the country. It says it’s looking for unique homes, since NFT enthusiasts consider the tokens collectible.
@@ -79,7 +82,7 @@ via CNN | *2022 02 14* <br/>
 
 ### \- <a href="https://www.nrn.com/fast-casual/chick-ncone-launches-nft-buy-franchise-territories" target="_blank">Chick'nCone launches NFT to buy into franchise territories</a> <br/>
 
-via "NFT" - Google News | *2022 02 14* <br/>
+via NRN.com | *2022 02 14* <br/>
 Fastfood chain Chick'nCone is offering NFTs covering specific geographic areas with franchise fees and royatlies to be paid to the holder - if the chain opens a location in that area.
 
 > The cost of a Chick’nCoin is set at $14,500 or 5.5 ETH — buyers have the option of using U.S. dollars or cryptocurrency. Almanzar said on Friday that 5.5 ETH was more than the dollar amount, in part because there are fees for conversion to U.S. dollars. After the company sells 100 tokens, they plan to reevaluate the price, given the fluidity of exchange rates.
