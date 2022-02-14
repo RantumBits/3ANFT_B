@@ -16,6 +16,8 @@ Featured image from [The Panels](https://thepanels.art/) by Arihz
 
 *currently reporting on ethereum network data, more to come*
 
+<iframe src="https://dune.xyz/embeds/422398/805033/3b9e6fab-71c7-4649-b96c-02b2cb1f154d?date=2022-02-14%2000%3A00%3A00" height="230" width="100%" title="NFT 30 day Sales volume 2022-02-14"></iframe>
+
 <div style="text-align:center">
 <iframe src="https://dune.xyz/embeds/413975/789510/69637dc0-1257-4e63-9fa1-e57bcdc4cea0?date=2022-02-14%2000%3A00%3A00" height="130" width="49%" title="NFT Sales volume 2022-02-14"></iframe>
 <iframe src="https://dune.xyz/embeds/413975/789629/7f7f4591-1c8e-4a01-8fc0-b08f4c5287e9?date=2022-02-14%2000%3A00%3A00" height="130" width="49%" title="NFTsales count 2022-02-14"></iframe><br/>
@@ -28,8 +30,8 @@ Featured image from [The Panels](https://thepanels.art/) by Arihz
 <iframe src="https://dune.xyz/embeds/413608/788974/64fca062-29ea-41a6-bcd9-e2a06f571b40?date=2022-02-14%2000%3A00%3A00" height="250" width="100%" title="NFT Sales Hourly Sales Volume by Platform"></iframe>
 <iframe src="https://dune.xyz/embeds/416530/794643/2cbda729-fd8f-44b2-8042-15fd3d7ffa93?date=2022-02-14%2000%3A00%3A00" height="300" width="100%" title="Top NFT Collections by Sales Volume"></iframe>
 
-<iframe src="https://dune.xyz/embeds/414077/789649/5213e9ee-97ff-4a2b-bbdc-ea9a3876d895?date=2022-02-14%2000%3A00%3A00" height="550" width="100%" title="Top 50 Single Daily NFT Sales"></iframe>
-<iframe src="https://dune.xyz/embeds/416582/794788/8067a6e7-1b14-4d32-ad01-063d8413317d?date=2022-02-14%2000%3A00%3A00" height="300" width="100%" title="Top New Trading NFT Collections"></iframe>
+<iframe src="https://dune.xyz/embeds/414077/789649/5213e9ee-97ff-4a2b-bbdc-ea9a3876d895?date=2022-02-14%2000%3A00%3A00" height="400" width="100%" title="Top 50 Single Daily NFT Sales"></iframe>
+<iframe src="https://dune.xyz/embeds/416582/794788/8067a6e7-1b14-4d32-ad01-063d8413317d?date=2022-02-14%2000%3A00%3A00" height="400" width="100%" title="Top New Trading NFT Collections"></iframe>
 
 <iframe src="https://dune.xyz/embeds/416820/795280/6a94ce08-3815-437f-a2a9-1d8b5c4d84e4?date=2022-02-14%2000%3A00%3A00" height="350" width="49%" title="nft sales count DATE"></iframe>
 <iframe src="https://dune.xyz/embeds/416822/795284/02cbdc60-0d2f-4e37-a741-f1ccf39c6bf7?date=2022-02-14%2000%3A00%3A00" height="350" width="49%" title="nft volume DATE"></iframe>
