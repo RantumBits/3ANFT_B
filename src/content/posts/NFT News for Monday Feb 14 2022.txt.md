@@ -2,7 +2,7 @@
 template: blog-post
 title: NFT Data, News & Links for Monday Feb 14 2022
 slug: nft-links-2022-02-14
-date: 2022-02-14 13:11
+date: 2222-02-14 13:11
 description: NFT links and news for Monday Feb 14 2022 including Crypto Bowl,
   fast food NFTs, Cent suspends sales, $LOOKS investors cash-out $73 million,
   Samsung NFTs, NFTs seized amid tax evasion & more
