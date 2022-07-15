@@ -120,21 +120,23 @@ class Episodes extends React.Component {
         />
         <h1>3A NFT Podcast Episodes</h1>
         Subscribe to All About Affordable NFTs <br/>
+
+        <Link to={`https://podcasts.apple.com/us/podcast/all-about-affordable-nfts/id1586490838`} target="_blank" title="Apple Podcasts">
+          <SiApplepodcasts />
+        </Link>
+        <Link to={`https://open.spotify.com/show/4JPeNkNEtJc2rAzdCMlRWl?si=1b961d00601240fa`} target="_blank" title="Spotify">
+          <SiSpotify />
+        </Link>
+        <Link to={`https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL0FmZm9yZGFibGVORlQvZmVlZC54bWw?sa=X&ved=0CAMQ4aUDahcKEwiQ0Y7lo7rzAhUAAAAAHQAAAAAQAQ&hl=en`} target="_blank" title="Google Podcasts">
+          <SiGooglepodcasts />
+        </Link>
         <div
           className="social-icons"
           sx={{
             variant: "variants.socialIcons",
           }}
         >
-          <Link to={`https://podcasts.apple.com/us/podcast/all-about-affordable-nfts/id1586490838`} target="_blank" title="Apple Podcasts">
-            <SiApplepodcasts />
-          </Link>
-          <Link to={`https://open.spotify.com/show/4JPeNkNEtJc2rAzdCMlRWl?si=1b961d00601240fa`} target="_blank" title="Spotify">
-            <SiSpotify />
-          </Link>
-          <Link to={`https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL0FmZm9yZGFibGVORlQvZmVlZC54bWw?sa=X&ved=0CAMQ4aUDahcKEwiQ0Y7lo7rzAhUAAAAAHQAAAAAQAQ&hl=en`} target="_blank" title="Google Podcasts">
-            <SiGooglepodcasts />
-          </Link>
+
           <p></p>
         </div>
         <div

@@ -46,6 +46,14 @@ export const pageQuery = graphql`
           ctaText
           ctaLink
         }
+        cta2 {
+          ctaText
+          ctaLink
+        }
+        cta3 {
+          ctaText
+          ctaLink
+        }
       }
     }
     posts: allMarkdownRemark(
@@ -253,6 +261,34 @@ const HomePage = ({ data }) => {
               <RiArrowRightSLine />
             </span>
           </Link>
+
+          <Link
+            to={frontmatter.cta2.ctaLink}
+            className="button"
+            sx={{
+              variant: "variants.button",
+            }}
+            target="_blank"
+          >
+            {frontmatter.cta2.ctaText}
+            <span className="icon -right">
+              <RiArrowRightSLine />
+            </span>
+          </Link>
+
+          <Link
+            to={frontmatter.cta3.ctaLink}
+            className="button"
+            sx={{
+              variant: "variants.button",
+            }}
+            target="_blank"
+          >
+            {frontmatter.cta3.ctaText}
+            <span className="icon -right">
+              <RiArrowRightSLine />
+            </span>
+          </Link>
           <div
             className="social-icons"
             sx={{
@@ -303,8 +339,9 @@ const HomePage = ({ data }) => {
         </div>
       */}
       </div>
-      <BlogListHome data={posts} />
+
       <EpisodeList data={episodes} />
+      <BlogListHome data={posts} />
     </Layout>
   )
 }
